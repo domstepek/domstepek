@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/domstepek" target="blank"><img src="https://img.shields.io/twitter/follow/domstepek?logo=twitter&style=for-the-badge" alt="domstepek" /></a> </p>
 
-- 🔭 I’m currently working on [Charla.cc](charla.cc)
+- 🔭 I’m currently working on [Charla.cc](https://charla.cc)
 
 - 👯 I’m looking to collaborate on **web3 projects**
 
